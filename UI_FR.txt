@@ -1,0 +1,16 @@
+UI_FR = {
+	UI_ZL_Trait_Sexaddict = "Accro au sexe",
+	UI_ZL_Trait_Sexaddict_Description = "Le stress et le malheur diminuent après un rapport sexuel. Le malheur augmente lorsqu'on ne fait pas l'amour.",
+	UI_ZL_Trait_Masochist = "Masochiste",
+	UI_ZL_Trait_Masochist_Description = "Vous aimez être violée. Être violée réduit votre malheur. <br>+1 Pied léger",
+	UI_ZL_Trait_Rapist = "Violeur",
+	UI_ZL_Trait_Rapist_Description = "Vous aimez violer tout et tout le monde. Violer des individus sans méfiance réduit votre malheur. <br>+1 Se faufiler",
+	UI_ZL_Trait_Wimp = "Peur du viol",
+	UI_ZL_Trait_Wimp_Description = "Être violée vous traumatise et augmente votre malheur et votre stress.",
+	UI_ZL_Trait_Necrophiliac = "Nécrophile",
+	UI_ZL_Trait_Necrophiliac_Description = "Avoir des relations sexuelles avec des morts vous apporte beaucoup de bonheur.",
+	UI_ZL_Trait_Misogynist = "Misogyne",
+	UI_ZL_Trait_Misogynist_Description = "Déteste les femmes. Les rapports sexuels avec des femmes augmentent le stress et le malheur.",
+	UI_ZL_Trait_Misandrist = "Misandriste",
+	UI_ZL_Trait_Misandrist_Description = "Déteste les hommes. Les relations sexuelles avec des hommes augmentent le stress et le malheur.",
+}
