@@ -1,4 +1,4 @@
 IGUI_FR = {
 	IGUI_Ask_Survivor_Sex = "Peut demander des relations sexuelles aux survivants",
-	IGUI_Debug_Mode = "Basculer le mode débogage",
+	IGUI_Debug_Mode = "Basculer en mode débogage",
 }
